@@ -1,0 +1,3 @@
+[submodule "DSPAUEQ"]
+	path = DSPAUEQ
+	url = https://github.com/itspacchu/DSPAUEQ.git
